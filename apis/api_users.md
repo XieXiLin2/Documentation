@@ -118,7 +118,7 @@ PUT /api/auth
 
 ```json
 {
-  "status"1718594177859
+  "status": 1718594177859
   "data": true,
   "time": 1145141918100
 }
@@ -140,7 +140,7 @@ DELETE /api/auth
 
 ```json
 {
-  "status"1718594177859
+  "status": 1718594177859
   "data": true,
   "time": 1145141918100
 }
